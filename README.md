@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SapheSab3r
-- 👀 I’m looking for an internship role in Front-End/UI development
+- 👀 I’m looking for an internship role in SWE/PM
 - 🌱 I’m from Carnegie Mellon University
 - 💞️ Love weight training 
 
